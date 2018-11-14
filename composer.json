@@ -17,7 +17,7 @@
             "email": "wise_king@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.1",
     "require": {
         "yiisoft/yii2": "~2.0.13",
         "yiisoft/yii2-bootstrap": "~2.0.0",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\xgii\\": "src"
+            "yii\\xgii\\": ""
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "1.0.1 --dev"
         },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
