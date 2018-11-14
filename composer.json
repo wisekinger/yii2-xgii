@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-xgii",
+    "name": "wisekinger/yii2-xgii",
     "description": "The xGii extension for the Yii framework",
     "keywords": ["yii2", "xgii", "code generator"],
     "type": "yii2-extension",
