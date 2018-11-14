@@ -21,7 +21,7 @@ php composer.phar require --dev wisekinger/yii2-xgii
 or add
 
 ```
-"wisekinger/yii2-xgii": "src"
+"wisekinger/yii2-xgii": "1.0.x-dev"
 ```
 
 to the require section of your `composer.json` file.
