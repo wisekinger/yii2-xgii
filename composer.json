@@ -5,10 +5,10 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2-gii/issues",
+        "issues": "https://github.com/yiisoft/yii2-xgii/issues",
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
+        "irc": "irc://irc.freenode.net/xyii",
         "source": "https://github.com/wisekinger/yii2-xgii"
     },
     "authors": [
