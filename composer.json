@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\xgii\\": "2.0.6"
+            "yii\\xgii\\": "src"
         }
     },
     "extra": {
