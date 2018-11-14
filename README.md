@@ -8,10 +8,10 @@
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-debug/v/stable.png)](https://packagist.org/packages/wisekinger/yii2_xgii
+[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-debug/v/stable.png)](https://packagist.org/packages/wisekinger/yii2-xgii
 )
-[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-debug/downloads.png)](https://packagist.org/packages/wisekinger/yii2_xgii)
-[![Build Status](https://travis-ci.org/yiisoft/yii2-debug.svg?branch=master)](https://travis-ci.org/wisekinger/yii2_xgii)
+[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-debug/downloads.png)](https://packagist.org/packages/wisekinger/yii2-xgii)
+[![Build Status](https://travis-ci.org/yiisoft/yii2-debug.svg?branch=master)](https://travis-ci.org/wisekinger/yii2-xgii)
 
 
 Installation
@@ -22,13 +22,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --dev wisekinger/yii2_xgii
+php composer.phar require --dev wisekinger/yii2-xgii
 ```
 
 or add
 
 ```
-"wisekinger/yii2_xgii": "src"
+"wisekinger/yii2-xgii": "src"
 ```
 
 to the require section of your `composer.json` file.
