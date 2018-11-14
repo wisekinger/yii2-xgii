@@ -31,3 +31,22 @@ or add
 ```
 
 to the require section of your `composer.json` file.
+
+Useage
+
+add code below to your config section
+```
+    $config['bootstrap'][] = 'xgii';
+    $config['modules']['xgii'] = [
+        'class' => 'yii\xgii\Module',
+    ];
+```
+
+You can then access Gii through the following URL:
+```
+http://localhost/path/to/index.php?r=xgii
+```
+or if you have enabled pretty URLs, you may use the following URL:
+```
+http://localhost/path/to/index.php/xgii
+```
