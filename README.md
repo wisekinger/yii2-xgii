@@ -8,11 +8,8 @@
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-debug/v/stable.png)](https://packagist.org/packages/wisekinger/yii2-xgii
-)
-[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-debug/downloads.png)](https://packagist.org/packages/wisekinger/yii2-xgii)
-[![Build Status](https://travis-ci.org/yiisoft/yii2-debug.svg?branch=master)](https://travis-ci.org/wisekinger/yii2-xgii)
-
+packages:
+https://packagist.org/packages/wisekinger/yii2-xgii
 
 Installation
 ------------
