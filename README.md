@@ -42,7 +42,7 @@ add code below to your config section
     ];
 ```
 
-You can then access Gii through the following URL:
+You can then access xGii through the following URL:
 ```
 http://localhost/path/to/index.php?r=xgii
 ```
