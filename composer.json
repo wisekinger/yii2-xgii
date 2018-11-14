@@ -9,7 +9,7 @@
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/wiseking2018/yii2-xgii"
+        "source": "https://github.com/wisekinger/yii2-xgii"
     },
     "authors": [
         {
@@ -31,7 +31,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "2.0-dev"
         },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
