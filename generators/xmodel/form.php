@@ -24,7 +24,7 @@ echo '<div class="alert alert-warning">TIPS';
 echo '<p>1.数据表各字段以","为分隔，字段名与字段属性采用"=>"连接。</p>';
 echo '<p>2.字段名称应当符合数据表设计规范。</p>';
 echo '<p>3.主键属性用"pk"代替，字符属性用"string"代替，数值属性用"integet"代替，日期时间属性用"datetime"代替。</p>';
-echo '<p>示例：id=>pk,name=string,age=>integer,createdAt=>datetime</p></div>';
+echo '<p>示例：id=>pk,name=>string,age=>integer,createdAt=>datetime</p></div>';
 echo $form->field($generator, 'modelClass');
 echo $form->field($generator, 'ns');
 echo $form->field($generator, 'baseClass');
